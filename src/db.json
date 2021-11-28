@@ -1,0 +1,167 @@
+[
+    {
+        "id" : 1,
+        "paintingName": "Bhil Art ",
+        "artistName" : "Sita Devi",
+        "createdOn" : "1637222014286",
+        "price" : 3000,
+        "imageUrl": "painting1.JPG",
+        "desc" : "Madhubani painting is famous for it naturality and uniqueness. Traditionally this painting was crafeted using natural colour. All colours was extracted from plant leave, flowers, fruits and other parts of plants. This way artist was giving madhubani art uniqueness and naturality. ",
+        "comments" : [{
+            "id" : 1,
+            "username": "Ghanshyam jha",
+            "review" : "This is very nice painting with wonderful coloring and details",
+            "rating" : "4",
+            "time" : "1637221953692",
+            "replies" : [
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and details",
+                    "time" : "1637222014286"
+                }
+
+            ]
+        }]
+    },
+    {
+        "id" : 2,
+        "paintingName": "Gopi Sang Krishna",
+        "artistName" : "Sita Devi",
+        "createdOn" : "1637222014286",
+        "price" : 3000,
+        "imageUrl": "painting2.webp",
+        "desc" : "Madhubani painting is famous for it naturality and uniqueness. Traditionally this painting was crafeted using natural colour. All colours was extracted from plant leave, flowers, fruits and other parts of plants. This way artist was giving madhubani art uniqueness and naturality. ",
+        "comments" : [{
+            "id" : 1,
+            "username": "Ghanshyam jha",
+            "review" : "This is very nice painting with wonderful coloring and details",
+            "rating" : "4",
+            "time" : "1637221953692",
+            "replies" : [
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                },
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                },
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                }
+
+            ]
+        },
+        {
+            "id" : 2,
+            "username": "Ghanshyam jha",
+            "review" : "This is very nice painting with wonderful coloring and details",
+            "rating" : "4",
+            "time" : "1637221953692",
+            "replies" : [
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                },
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "username": "Ghanshyam jha",
+            "review" : "This is very nice painting with wonderful coloring and details",
+            "rating" : "4",
+            "time" : "1637221953692",
+            "replies" : [
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                }
+
+            ]
+        }
+    ]
+    },
+    {
+        "id" : 3,
+        "paintingName": "Lord Vishnu reclining on his seshnag Ananta",
+        "artistName" : "Suparna Benarji",
+        "createdOn" : "1637222014286",
+        "price" : 3000,
+        "imageUrl": "painting3.webp",
+        "desc" : "Madhubani painting is famous for it naturality and uniqueness. Traditionally this painting was crafeted using natural colour. All colours was extracted from plant leave, flowers, fruits and other parts of plants. This way artist was giving madhubani art uniqueness and naturality. ",
+        "comments" : [{
+            "id" : 1,
+            "username": "Ghanshyam jha",
+            "review" : "This is very nice painting with wonderful coloring and details",
+            "rating" : "4",
+            "time" : "1637221953692",
+            "replies" : [
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                }
+
+            ]
+        }]
+    },
+    {
+        "id" : 4,
+        "paintingName": "Lord Krishna playing the Bansuri",
+        "artistName" : "Suparna Benarji",
+        "createdOn" : "1637222014286",
+        "price" : 3000,
+        "imageUrl": "painting4.jpg",
+        "desc" : "Madhubani painting is famous for it naturality and uniqueness. Traditionally this painting was crafeted using natural colour. All colours was extracted from plant leave, flowers, fruits and other parts of plants. This way artist was giving madhubani art uniqueness and naturality. ",
+        "comments" : [{
+            "id" : 1,
+            "username": "Ghanshyam jha",
+            "review" : "This is very nice painting with wonderful coloring and details",
+            "rating" : "4",
+            "time" : "1637221953692",
+            "replies" : [
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                }
+
+            ]
+        }]
+    },
+    {
+        "id" : 5,
+        "paintingName": "Moti Fish ",
+        "artistName" : "Sonam Jha",
+        "createdOn" : "1637222014286",
+        "price" : 3000,
+        "imageUrl": "painting5.jpg",
+        "desc" : "Madhubani painting is famous for it naturality and uniqueness. Traditionally this painting was crafeted using natural colour. All colours was extracted from plant leave, flowers, fruits and other parts of plants. This way artist was giving madhubani art uniqueness and naturality. ",
+        "comments" : [{
+            "id" : 1, 
+            "username": "Ghanshyam jha",
+            "review" : "This is very nice painting with wonderful coloring and details",
+            "rating" : "4",
+            "time" : "1637221953692",
+            "replies" : [
+                {
+                    "username": "Sam babu",
+                    "reply" : "Really bro this is very good paining with vibrant coloring and detains",
+                    "time" : "1637222014286"
+                }
+
+            ]
+        }]
+    }
+]
